@@ -89,11 +89,11 @@ District-level overview maps are also available [here](https://drive.google.com/
 
 Settlement Maps from ICIMOD:
 *[Dolakha<br/>![Dolakha](img/thumbs/dolakha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg)
-*[Gorkha<br/>![Dolakha](img/thumbs/gorkha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg)
-*[Nuwakot<br/>![Dolakha](img/thumbs/nuwakot_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg)
-*[Rasuwa<br/>![Dolakha](img/thumbs/rasuwa_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/rasuwa_settlement.jpg)
-*[Sindhupalchok<br/>![Dolakha](img/thumbs/sindhupalchok_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/sindhupalchok_settlement.jpg)
-(Source: [![Settlement Maps from ICIMOD]](http://www.icimod.org/?q=17913))
+*[Gorkha<br/>![Gorkha](img/thumbs/gorkha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg)
+*[Nuwakot<br/>![Nuwakot](img/thumbs/nuwakot_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg)
+*[Rasuwa<br/>![Rasuwa](img/thumbs/rasuwa_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/rasuwa_settlement.jpg)
+*[Sindhupalchok<br/>![Sindhupalchok](img/thumbs/sindhupalchok_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/sindhupalchok_settlement.jpg)
+<br/>(Source: [![Settlement Maps from ICIMOD]](http://www.icimod.org/?q=17913))
 
 ## Looking for other areas?
 Send an email to kathmandulivinglabs@gmail.com with the area / village name or [print from here](http://geohacker.in/nepal/)
