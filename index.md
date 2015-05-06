@@ -52,7 +52,7 @@ Zoom in to identify VDC Names.
    * [50-page A4 PDF](http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf) *7mb*
  * Lalitpur
    * [Lalitpur District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png)](http://45.55.246.231/quake-maps/img/Lalitpur.png)
-   * [Nallu VDC - Lalitpur<br/>![VDC](img/thumbs/VDC_Maps/Lalitpur_Nallu.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lalitpur_Nallu.png)  
+   <!--* [Nallu VDC - Lalitpur<br/>![VDC](img/thumbs/VDC_Maps/Lalitpur_Nallu.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lalitpur_Nallu.png) --> 
    * Patan Area Only, [27-page A4 PDF](http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf) *16mb*
    * [Kirtipur](https://cloud.githubusercontent.com/assets/371666/7369122/a2e6e3d8-edcc-11e4-8870-cb58302c0788.png)
    * [Chasukhel](https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png)
@@ -60,11 +60,11 @@ Zoom in to identify VDC Names.
    * [Sindhupalchok District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Sindhupalchok.png)](http://45.55.246.231/quake-maps/img/Sindhupalchok.png) 
    * [Bahrabise](https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png)
    * [Gumba VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Gumba.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Gumba.png)  
-   * [Dhuyang VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Dhuyang.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Dhuyang.png)  
+   <!--* [Dhuyang VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Dhuyang.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Dhuyang.png)  -->
    * [Fulpingkatti VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Fulpingkatti.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Fulpingkatti.png)  
    * [Tatopani VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Tatopani.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Tatopani.png)  
    * [Choutara VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Choutara.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Choutara.png)  
-   * [Gati VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Gati.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Gati.png)  
+   <!--* [Gati VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Gati.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Gati.png)  -->
    * [Listikot VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Listikot.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Listikot.png)  
    * [Pangtang VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Pangtang.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Pangtang.png)
  * Dolakha
@@ -78,11 +78,11 @@ Zoom in to identify VDC Names.
    * [Arupokhari](http://www.maposmatic.org/results//164512_2015-05-02_10-02_ArupokhariGorkha.png)
    * [Laprak](https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png)
    * [Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)
-   * [Bihi VDC - Gorkha<br/>![VDC](img/thumbs/VDC_Maps/Gorkha_Bihi.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Bihi.png)
+   <!--* [Bihi VDC - Gorkha<br/>![VDC](img/thumbs/VDC_Maps/Gorkha_Bihi.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Bihi.png)
    * [Lho VDC - Gorkha<br/>![VDC](img/thumbs/VDC_Maps/Gorkha_Lho.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Lho.png)
    * [Prok VDC - Gorkha<br/>![VDC](img/thumbs/VDC_Maps/Gorkha_Prok.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Prok.png)
    * [Samagaun VDC - Gorkha<br/>![VDC](img/thumbs/VDC_Maps/Gorkha_Samagaun.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Samagaun.png)
-   * [Sirdibas VDC - Gorkha<br/>![VDC](img/thumbs/VDC_Maps/Gorkha_Sirdibas.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Sirdibas.png)
+   * [Sirdibas VDC - Gorkha<br/>![VDC](img/thumbs/VDC_Maps/Gorkha_Sirdibas.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Sirdibas.png)-->
  * Rasuwa
    * [Rasuwa District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Rasuwa.png)](http://45.55.246.231/quake-maps/img/Rasuwa.png) 
  * Ramechhap
