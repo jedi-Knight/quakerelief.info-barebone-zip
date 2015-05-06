@@ -59,8 +59,7 @@ Zoom in to identify VDC Names.
  * Sindhupalchok
    * [Sindhupalchok District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Sindhupalchok.png)](http://45.55.246.231/quake-maps/img/Sindhupalchok.png) 
    * [Bahrabise](https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png)
-   * [Gumba VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Gumba.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Gumba.png)  
-   <!--* [Dhuyang VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Dhuyang.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Dhuyang.png)  -->
+   * [Gumba VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Gumba.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Gumba.png)
    * [Fulpingkatti VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Fulpingkatti.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Fulpingkatti.png)  
    * [Tatopani VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Tatopani.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Tatopani.png)  
    * [Choutara VDC - Sindhupalchok<br/>![VDC](img/thumbs/VDC_Maps/Sindhupalchok_Choutara.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Choutara.png)  
