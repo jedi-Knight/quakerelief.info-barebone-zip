@@ -87,7 +87,7 @@ Zoom in to identify VDC Names.
 Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
 
-Settlement Maps from ICIMOD:
+Settlement Maps from ICIMOD:<br/>
 *[Dolakha<br/>![Dolakha](img/thumbs/dolakha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg)
 *[Gorkha<br/>![Gorkha](img/thumbs/gorkha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg)
 *[Nuwakot<br/>![Nuwakot](img/thumbs/nuwakot_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg)
