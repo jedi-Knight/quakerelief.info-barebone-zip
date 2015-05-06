@@ -87,6 +87,14 @@ Zoom in to identify VDC Names.
 Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
 
+Settlement Maps from ICIMOD:
+*[Dolakha<br/>![Dolakha](img/thumbs/)](http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg)
+*[Gorkha<br/>![Dolakha](img/thumbs/)](http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg)
+*[Nuwakot<br/>![Dolakha](img/thumbs/)](http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg)
+*[Rasuwa<br/>![Dolakha](img/thumbs/)](http://www.icimod.org/gorkha_earthquake_maps/settlement/rasuwa_settlement.jpg)
+*[Sindhupalchok<br/>![Dolakha](img/thumbs/)](http://www.icimod.org/gorkha_earthquake_maps/settlement/sindhupalchok_settlement.jpg)
+(Source: [![Settlement Maps from ICIMOD]](http://www.icimod.org/?q=17913))
+
 ## Looking for other areas?
 Send an email to kathmandulivinglabs@gmail.com with the area / village name or [print from here](http://geohacker.in/nepal/)
 
